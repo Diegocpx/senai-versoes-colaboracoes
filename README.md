@@ -1,4 +1,13 @@
 # senai-versoes-colaboracoes
+
+Comenttários Programador 01
+
+Estou trabalhando na branch "tarefa/minha-primeira-branch"
+
+Comentários programador 02
+
+Estou trabalhando na branch "exemplo-branch"
+
 Principais comandos git
 
 git init /
